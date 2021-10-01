@@ -122,9 +122,9 @@ it is recommended to use Broadcom wireless network card for the best experience 
 
 ### Update or Downgrade BIOS Version / 升级或降级 BIOS
 
-It is recommended to use a specific version of the BIOS for the best use experience. The most recommended BIOS version is E7B23IMS.1B0
+It is recommended to use a specific version of the BIOS for the best use experience. The most recommended BIOS version is Version 3202
 
-推荐使用特定版本的 BIOS 以获得最佳的使用体验。最推荐 BIOS 版本是 E7B23IMS.1B0
+推荐使用特定版本的 BIOS 以获得最佳的使用体验。最推荐 BIOS 版本是 Version 3202
 
 
 
