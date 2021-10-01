@@ -12,10 +12,6 @@ Your warranty is now void. Please do some research if you have any concerns befo
 
 你的保修将完全失效。如果您有任何疑虑，请在使用我的项目之前先进行一些研究。我对任何损失均不负责，包括但不限于 Kernel Panic、设备无法启动或无法正常工作、硬件损坏或数据丢失、原子弹爆炸、第三次世界大战、SCP 基金会无法避免的 CK 级现实重构等。
 
-Please choose the branch you need for different graphics cards
-
-不同显卡请选择你需要的分支
-
 
 ## Hardware Specifications / 硬件配置
 
@@ -211,6 +207,6 @@ Donating to this project is OPTIONAL. But feel free to buy me a coffee if you ap
 ## Maintainer / 维护者
 
 **AUSU-ROG-STRIX-B360-I-GAMING** © [TokiharaSay](https://github.com/TokiharaSay), Released under the [GPL-3.0](./LICENSE) License.<br>
-Authored and maintained by TokiharaSaywith help from contributors ([list](https://github.com/TokiharaSay/OpenCore-MSI-B360M-MORTAR-Hackintosh/graphs/contributors)).
+Authored and maintained by TokiharaSaywith help from contributors ([list](https://github.com/TokiharaSay/OpenCore-AUSU-ROG-STRIX-B360-I-GAMING-Hackintosh)).
 
 >[Blog](https://blog.runebalot.cn/) · GitHub [@TokiharaSay](https://github.com/TokiharaSay) · Twitter [@TokiharaSay](https://twitter.com/TokiharaSay) 
