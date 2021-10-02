@@ -117,7 +117,7 @@ It is recommended to use a specific version of the BIOS for the best use experie
 
 
 
-[Download BIOS at MSI Support Website. 从华硕支持网站下载 BIOS。](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b360-i-gaming-model/helpdesk)
+[Download BIOS at ASUS Support Website. 从华硕支持网站下载 BIOS。](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b360-i-gaming-model/helpdesk)
 
 ### BIOS Settings / 修改 BIOS 设置
 
