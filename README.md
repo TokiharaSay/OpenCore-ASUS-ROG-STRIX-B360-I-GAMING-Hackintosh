@@ -53,14 +53,9 @@ Your warranty is now void. Please do some research if you have any concerns befo
 
 | Feature | Status | Dependency | Remarks |
 | --- | --- | --- | --- |
-| WiFi | ✅ | `AirportItlwm` | Suggest to switch Broadcom based card Only Big Sur Driver file <br>推荐更换博通无线网卡,只有BigSur的驱动 |
+| WiFi | ✅ | `AirportItlwm` | Only AirportItlwm BigSur drives<br>只有 AirportItlwm BigSur 驱动 |
 | USB 2.0, USB 3.0 | ✅ | `USBPorts.kext` |Default mask front all interface and divine light synchronization<br>默认屏蔽前置所有接口和神光同步 |
 
-### Display, TrackPad and Keyboard / 显示器、触摸板和键盘
-
-| Feature | Status | Dependency | Remarks |
-| --- | --- | --- | --- |
-| HiDPI | ✅ | | Natively enabled on UHD DP  screen external<br>在 UHD DP 4K 外接屏幕上原生启用 |
 
 ## Refrence / 必读参考资料
 
