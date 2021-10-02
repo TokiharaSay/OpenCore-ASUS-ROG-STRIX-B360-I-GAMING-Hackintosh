@@ -2,8 +2,8 @@
 <img src="https://dlcdnwebimgs.asus.com/gain/CBAEF339-7200-489B-8B5F-7960EA7BD0B7/w717/h525" width="350px">
 </div>
 
-<h1 align="center">AUSU ROG STRIX B360-I GAMING-Hackintosh</h1>
-<h3 align="center">AUSU ROG STRIX B360-I GAMING 黑苹果 OpenCore 引导配置</h3>
+<h1 align="center">ASUS ROG STRIX B360-I GAMING-Hackintosh</h1>
+<h3 align="center">ASUS ROG STRIX B360-I GAMING 黑苹果 OpenCore 引导配置</h3>
 <br>
 
 ## Disclaimer / 免责声明
@@ -17,7 +17,7 @@ Your warranty is now void. Please do some research if you have any concerns befo
 
 | Specifications | Details |
 |:---|:---|
-| Computer Model | AUSU ROG STRIX B360-I GAMING |
+| Computer Model | ASUS ROG STRIX B360-I GAMING |
 | CPU | Intel Core i5-8400 |
 | Memory | DDR4 2666 Mhz. 8*2 GB |
 | NVMe SSD | WD SN550 1T*2 |
