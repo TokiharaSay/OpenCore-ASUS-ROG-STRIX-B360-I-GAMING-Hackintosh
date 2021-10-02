@@ -37,10 +37,8 @@ Your warranty is now void. Please do some research if you have any concerns befo
 
 | Feature | Status | Dependency | Remarks |
 | --- | --- | --- | --- |
-| Full Graphics Accleration (QE/CI)<br>图形硬件加速 | ✅ | `WhateverGreen.kext` | |
 | Audio Recording via 3.5mm microphone<br>通过3.5mm 麦克风录音 | no test<br>没有测试 | `AppleALC.kext` | |
-| Audio Playback after through 3.5mm<br>通过 后 3.5mm 接口播放音频 | ✅ | `AppleALC.kext` | |
-| Automatic Headphone Output Switching<br>当插入耳机时自动切换音频输出 | ✅ | `AppleALC.kext` | |
+
 
 
 ### Power, Charge, Sleep and Hibernation / 电源管理、充电、睡眠、休眠
