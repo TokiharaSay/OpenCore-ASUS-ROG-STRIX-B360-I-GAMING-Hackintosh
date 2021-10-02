@@ -19,7 +19,7 @@ Your warranty is now void. Please do some research if you have any concerns befo
 |:---|:---|
 | Computer Model | ASUS ROG STRIX B360-I GAMING |
 | CPU | Intel Core i5-8400 |
-| Memory | DDR4 2666 Mhz. 8*2 GB |
+| Memory | DDR4 2666 Mhz 8GB*2 |
 | NVMe SSD | WD SN550 1T*2 |
 | Integrated Graphics | Intel UHD Graphics 630 and HP OEM RX580 2304SP 8G |
 | Wireless Card | Intel AC9560  |
