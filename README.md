@@ -144,8 +144,8 @@ Use following command to build the EFI.
 使用下述指令编译 EFI：
 
 ```bash
-git clone https://github.com/TokiharaSay/OpenCore-AUSU-ROG-STRIX-B360-I-GAMING-Hackintosh
-cd OpenCore-AUSU-ROG-STRIX-B360-I-GAMING-Hackintosh
+git clone https://github.com/TokiharaSay/OpenCore-ASUS-ROG-STRIX-B360-I-GAMING-Hackintosh
+cd OpenCore-ASUS-ROG-STRIX-B360-I-GAMING-Hackintosh
 chmod +x **/*.sh
 ./build.sh
 ```
@@ -161,7 +161,7 @@ Use following command to update and rebuild the EFI from upstream.
 使用下述指令从上游更新和重新编译 EFI：
 
 ```bash
-cd OpenCore-AUSU-ROG-STRIX-B360-I-GAMING-Hackintosh
+cd OpenCore-ASUS-ROG-STRIX-B360-I-GAMING-Hackintosh
 git pull --rebase
 chmod +x **/*.sh
 ./build.sh
@@ -206,7 +206,7 @@ Donating to this project is OPTIONAL. But feel free to buy me a coffee if you ap
 
 ## Maintainer / 维护者
 
-**AUSU-ROG-STRIX-B360-I-GAMING** © [TokiharaSay](https://github.com/TokiharaSay), Released under the [GPL-3.0](./LICENSE) License.<br>
+**ASUS-ROG-STRIX-B360-I-GAMING** © [TokiharaSay](https://github.com/TokiharaSay), Released under the [GPL-3.0](./LICENSE) License.<br>
 Authored and maintained by TokiharaSaywith help from contributors ([list](https://github.com/TokiharaSay/OpenCore-AUSU-ROG-STRIX-B360-I-GAMING-Hackintosh)).
 
 >[Blog](https://blog.runebalot.cn/) · GitHub [@TokiharaSay](https://github.com/TokiharaSay) · Twitter [@TokiharaSay](https://twitter.com/TokiharaSay) 
