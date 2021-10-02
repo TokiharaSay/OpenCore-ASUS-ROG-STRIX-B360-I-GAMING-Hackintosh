@@ -150,7 +150,7 @@ chmod +x **/*.sh
 ./build.sh
 ```
 
-Find generated EFI under `Output` folder. Find OpenCore config at `Output/EFI/OC/config_sample.plist` and fill in your own SMBIOS (Follow [the guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html), use model `MacBookPro14,3`) then rename `config_sample.plist` to `config.plist`.
+Find generated EFI under `Output` folder. Find OpenCore config at `Output/EFI/OC/config_sample.plist` and fill in your own SMBIOS (Follow [the guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html), use model `iMac19,1`) then rename `config_sample.plist` to `config.plist`.
 
 你可以在 `Output` 目录下找到生成的 EFI。OpenCore 配置文件路径为 `Output/EFI/OC/config_sample.plist`，你需要自行生成 SMBIOS 信息（遵循 [这篇教程](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) 的步骤，使用机型 `iMac19,1`）并填入配置文件中，然后将 `config_sample.plist` 重命名为 `config.plist`。
 
