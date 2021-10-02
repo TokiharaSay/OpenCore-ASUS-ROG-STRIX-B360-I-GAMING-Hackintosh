@@ -17,7 +17,7 @@ Your warranty is now void. Please do some research if you have any concerns befo
 
 | Specifications | Details |
 |:---|:---|
-| Computer Model | ASUS ROG STRIX B360-I GAMING |
+| Motherboard Model | ASUS ROG STRIX B360-I GAMING |
 | CPU | Intel Core i5-8400 |
 | Memory | DDR4 2666 Mhz 8GB*2 |
 | NVMe SSD | WD SN550 1T*2 |
@@ -38,7 +38,7 @@ Your warranty is now void. Please do some research if you have any concerns befo
 | Feature | Status | Dependency | Remarks |
 | --- | --- | --- | --- |
 | Full Graphics Accleration (QE/CI)<br>图形硬件加速 | ✅ | `WhateverGreen.kext` | |
-| Audio Recording via 3.5mm microphone<br>通过3.5mm 麦克风录音 | no test | `AppleALC.kext` | |
+| Audio Recording via 3.5mm microphone<br>通过3.5mm 麦克风录音 | no test<br>没有测试 | `AppleALC.kext` | |
 | Audio Playback after through 3.5mm<br>通过 后 3.5mm 接口播放音频 | ✅ | `AppleALC.kext` | |
 | Automatic Headphone Output Switching<br>当插入耳机时自动切换音频输出 | ✅ | `AppleALC.kext` | |
 
@@ -55,7 +55,7 @@ Your warranty is now void. Please do some research if you have any concerns befo
 
 | Feature | Status | Dependency | Remarks |
 | --- | --- | --- | --- |
-| WiFi | ✅ | `AirportItlwm` | Suggest to switch Broadcom based card<br>推荐更换博通无线网卡 |
+| WiFi | ✅ | `AirportItlwm` | Suggest to switch Broadcom based card Only Big Sur Driver file <br>推荐更换博通无线网卡,只有BigSur的驱动 |
 | USB 2.0, USB 3.0 | ✅ | `USBPorts.kext` |Default mask front all interface and divine light synchronization<br>默认屏蔽前置所有接口和神光同步 |
 
 ### Display, TrackPad and Keyboard / 显示器、触摸板和键盘
